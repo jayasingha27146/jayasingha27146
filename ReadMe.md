@@ -6,7 +6,7 @@
 
 <div align="center"> 
     <h2>Familiar with:</h2>
-    <img src="https://skillicons.dev/icons?i=react,dart,firebase,mongodb,js,html,css,tailwind,py,git,github,vscode,figma," alt="Languages and Tools" title="Languages and Tools"/></div>
+    <img src="https://skillicons.dev/icons?i=react,dart,firebase,mongodb,nodejs,express,js,html,css,tailwind,py,git,github,vscode,vercel,figma," alt="Languages and Tools" title="Languages and Tools"/></div>
     <br>
     <p align="center"
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jayasingha27146&theme=github-dark&card_width=500" alt="GitHub Streak" /></a></a></p>
