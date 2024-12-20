@@ -9,4 +9,4 @@
     <img src="https://skillicons.dev/icons?i=react,dart,firebase,mongodb,nodejs,express,vite,js,html,css,tailwind,py,git,github,vscode,vercel,figma," alt="Languages and Tools" title="Languages and Tools"/></div>
     <br>
     <p align="center"
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jayasingha27146&theme=shadow-green" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jayasingha27146&theme=soft-green" alt="GitHub Streak" /></a>
