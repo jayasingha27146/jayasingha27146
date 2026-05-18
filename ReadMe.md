@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10E553&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Limasha+Sathsara" alt="Typing SVG" /></a>
 </h1>
-🌱I am a Full Stack Developer and Quality Assurance Engineer with a strong Computer Science
+🌱I am a Full Stack Developer with a strong Computer Science
 background, specializing in building scalable, user-friendly, and high-performance web and mobile
 applications. I combine development expertise with a quality-focused mindset to deliver reliable, bug
 free, and visually appealing digital solutions. Passionate about clean code, UI/UX design, and
